@@ -8,3 +8,6 @@ venv/
 .ruff_cache/
 .coverage
 .DS_Store
+
+# Internal design + plan docs — not for the public repo
+docs/
